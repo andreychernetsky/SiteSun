@@ -1,0 +1,17 @@
+.my_header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.menu_list {
+    display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.social_list{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+
